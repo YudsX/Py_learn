@@ -40,6 +40,3 @@ def isiArray(inputan: int):
 if __name__=='__main__':
     inputan = int(input("Masukan Banyaknya Angka: "))
     isiArray(inputan)
-
-# Project Latihan Pycharm 
-
