@@ -1,6 +1,7 @@
 import time    # <- import time disini aku mencoba untuk mengukur kecepatan antara pake _pycache_ dan antara tidak
 
 t_start = time.time()     # <- untuk memulai waktu
+
 import contoh_package.contoh_file
 
 hasil_tambah = contoh_package.contoh_file.tambah(1,2,3,4,5)
